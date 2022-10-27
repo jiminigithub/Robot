@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+robo/__init__.py
+robo/__main__.py
+robo/bot.py
+robo.egg-info/PKG-INFO
+robo.egg-info/SOURCES.txt
+robo.egg-info/dependency_links.txt
+robo.egg-info/requires.txt
+robo.egg-info/top_level.txt
+robo/resources/start.png
